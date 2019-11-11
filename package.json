@@ -27,10 +27,12 @@
   },
   "homepage": "https://github.com/gospime/crypt#readme",
   "devDependencies": {
-    "bcryptjs": "^2.4.3",
     "standard-version": "^7.0.0"
   },
   "engines": {
     "node": ">=10.0.0"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
   }
 }
