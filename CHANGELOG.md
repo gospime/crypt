@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/gospime/crypt/compare/v1.1.1...v1.1.2) (2019-11-12)
+
+
+### Bug Fixes
+
+* refactored ([88dd0e4](https://github.com/gospime/crypt/commit/88dd0e4b09677b552678763a827693a037762075))
+
 ### [1.1.1](https://github.com/gospime/crypt/compare/v1.1.0...v1.1.1) (2019-11-11)
 
 ## 1.1.0 (2019-11-11)
